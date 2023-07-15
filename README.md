@@ -2,7 +2,7 @@
 
 ## Overview
 A fun, simple app developed during my journey through FreeCodeCamp's course. This project focuses on applying HTML and CSS skills to create an interactive webpage for all cat lovers out there.
-
+![Project Banner](https://github.com/RyanLilleyman/CatPhotoApp/blob/main/banner.png)
 
 ## Features
 - Display a series of cat photos
